@@ -78032,7 +78032,7 @@ A.a1R.prototype={
 $0(){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.e8("Quiz Land Admin",h,h,h,h,h,h),f=this.b,e=$.akS.j(),d=$.akT.j(),c=A.pu(20),b=20*$.ka.j(),a=20*$.c.j(),a0=A.akA(h,new A.eJ(4,A.uX(new A.aK(10,10)),new A.bJ(B.k,1,B.Z,-1)),h,h,h,h,h,h,!0,h,h,h,h,h,h,B.bf,!0,h,h,h,B.l,h,h,h,h,h,h,A.cu(h,h,B.bK,h,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),"Select  Type",h,h,h,h,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h),a1=f.cx
 a1=a1.gm(a1)
 s=t.fo
-a1=A.ayn(a0,B.bf,!1,A.ak(new A.a9(A.a(["hollywood","bollywood","mahabharat","ramayana","cricket","chess","general knowledge"],t.s),new A.a1H(),s),!0,s.i("b2.E")),new A.a1I(f),a1,t.N)
+a1=A.ayn(a0,B.bf,!1,A.ak(new A.a9(A.a(["hollywood","bollywood","mahabharat","ramayana","cricket","chess","general knowledge","puzzle challenge","history buff","bollywood bonanza","hollywood hits","sports fanatic","science whiz","geography explorer","music maestro","tech and gadgets","literary genius","nature and wildlife","foodie's delight","pop culture pundit","mindfulness and wellness"],t.s),new A.a1H(),s),!0,s.i("b2.E")),new A.a1I(f),a1,t.N)
 s=A.e8("Question",h,h,h,A.cu(h,h,h,h,h,h,h,h,h,h,h,22,h,h,B.cw,h,h,!0,h,h,h,h,h,h,h,h),h,h)
 a0=A.cQ(h,h,10)
 r=f.cy
